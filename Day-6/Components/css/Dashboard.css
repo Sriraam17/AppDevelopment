@@ -1,0 +1,40 @@
+/* src/Dashboard.css */
+.dashboard {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  .widget {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px;
+  }
+  
+  .widget1 {
+    background-color: #ffcccc; /* Unique background color for widget1 */
+  }
+  
+  .widget2 {
+    background-color: #ccffcc; /* Unique background color for widget2 */
+  }
+  
+  .widget3 {
+    background-color: #ccccff; /* Unique background color for widget3 */
+  }
+  
+  .widget h2 {
+    font-size: 24px;
+    color: #333333;
+  }
+  
+  .widget p {
+    font-size: 16px;
+    color: #666666;
+  }
+  
