@@ -1,0 +1,42 @@
+
+.conthome{
+    position: relative;
+    
+    display: flex;
+    padding: 30px;
+    width: 1500px;
+    border: 1px solid #000000; 
+    background-color:rgb(46, 45, 45);
+     z-index: 99; 
+  }
+  .namehead{
+    color:rgb(255, 0, 0);
+    position: relative;
+    top:0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .juk{
+    color: white;
+    position: relative;
+    top:30px;
+    left:-180px;
+  }
+
+  .btn-lo{
+    position:absolute;
+    top : 30%;
+    right : 3%;
+    color:#000000;
+    background-color: #c6c6c6;
+  }
+
+  .btn-lo:hover {
+       background-color:crimson ;
+  }
+  .reduxname{
+    font-weight: bolder;
+    color:azure
+  }
+
+  
