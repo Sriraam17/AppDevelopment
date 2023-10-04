@@ -1,0 +1,27 @@
+.footerak {
+    background-color:#342f2f;
+    color: rgb(255, 255, 255); 
+    padding: 40px; 
+    position: relative;
+    bottom: 0;
+    /* width: 100%; */
+    text-align: center;
+    z-index: 99;
+  }
+
+  .footn{
+    position: relative;
+    margin-right: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .cpy{
+    color: rgb(249, 8, 8);
+  }
+
+  .ft :hover{
+    color: rgb(222, 214, 214);
+    font-weight: bolder;
+  }
